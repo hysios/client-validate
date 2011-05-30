@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/Rakefile
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/init.rb
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cloud-business/!svn/ver/572/sanbox/client_validate/install.rb
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/MIT-LICENSE
+END
+client_validate.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cloud-business/!svn/ver/572/sanbox/client_validate/client_validate.gemspec
+END
+uninstall.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/uninstall.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cloud-business/!svn/ver/571/sanbox/client_validate/README
+END

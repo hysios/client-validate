@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/lib/wanew/client_validate
+END
+middleware.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cloud-business/!svn/ver/571/sanbox/client_validate/lib/wanew/client_validate/middleware.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cloud-business/!svn/ver/572/sanbox/client_validate/lib/wanew/client_validate/version.rb
+END
+action_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/lib/wanew/client_validate/action_view.rb
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/lib/wanew/client_validate/active_record.rb
+END
+active_model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/lib/wanew/client_validate/active_model.rb
+END

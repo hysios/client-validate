@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/lib/wanew/client_validate/active_record
+END
+middleware.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/lib/wanew/client_validate/active_record/middleware.rb
+END
+uniqueness.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cloud-business/!svn/ver/569/sanbox/client_validate/lib/wanew/client_validate/active_record/uniqueness.rb
+END
